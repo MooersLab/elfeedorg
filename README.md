@@ -1,10 +1,11 @@
-![Version](https://img.shields.io/static/v1?label=elfeedorg&message=0.0&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=elfeedorg&message=0.1&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-# Blaine's elfeed.org file
+# Blaine's elfeed.org file of RSS feeds of interest
 
-Elfeed is a package for the powerful editor Emacs that provides an interface to the most recent current contents of selected journals.
+Elfeed is a package for the highly customizable text editor Emacs.
+This package provides an interface to the most recent current contents of selected journals.
 Elfeed provides direct links to each article for further exploration.
 Elfeed spares you of the trouble of visiting the current contents of each journal to find papers of interest.
 This form of literature searching compliments keyword or topic-driven searches.
