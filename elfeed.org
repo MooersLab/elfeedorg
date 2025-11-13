@@ -44,15 +44,28 @@
 ** [[https://rss.sciencedirect.com/publication/science/00222836][JMB]]
 ** [[http://rss.sciencedirect.com/publication/science/00222860][Journal of Molecular Structure]]
 ** [[https://rss.sciencedirect.com/publication/science/01689002][Nucl. Instrum. Methods Phys. Res., Sect. A]]
+** [[https://rss.sciencedirect.com/publication/science/10478477][Journal of Structural Biology]]
+** [[https://rss.sciencedirect.com/publication/science/10933263][Molecuar Graphics and Modelling]]
+** [[https://rss.sciencedirect.com/publication/science/10972765][Moleuclar Cell]]
+** [[https://rss.sciencedirect.com/publication/science/09692126][Structure]]
 * Emacs                                                              :elfeed:
 ** [[https://planet.emacslife.com/atom.xml][EmacsLife]]
+** [[https://sachachua.com/blog/category/emacs-news/feed/][emacs-news]]
 ** [[https://raw.githubusercontent.com/emacstv/emacstv.github.io/refs/heads/main/videos.org][Emacs TV]]
 * EMBO                                                          :elfeed:
 ** [[https://www.embopress.org/feed/14602075/most-recent][EMBO Journal]]
 ** [[https://www.embopress.org/feed/14693178/most-recent][EMBO Reports]]
 * Frontiers.org                                                      :elfeed:
-** [[https://www.frontiersin.org/journals/genetics/rss][Fronteir in Genetics]]
-** [[https://www.frontiersin.org/journals/molecular-biosciences/rss][Fronteir in Molecular Biosciences]]
+** [[https://www.frontiersin.org/journals/artificial-intelligence/rss][Fronteirs in Artificial Intelligence]]
+** [[https://www.frontiersin.org/journals/molecular-biosciences/rss][Fronteirs in Molecular Biosciences]]
+** [[https://www.frontiersin.org/journals/rna-research/rss][Fronteirs in RNA Research]]
+** [[https://www.frontiersin.org/journals/chemistry/rss][Fronteirs in Chemistry]]
+** [[https://www.frontiersin.org/journals/molecular-biosciences/rss][Fronteirs in Molecular Biosciences]]
+** [[https://www.frontiersin.org/journals/bioinformatics/rss][Fronteirs in Bioinformatics]]
+** [[https://www.frontiersin.org/journals/imaging/rss][Fronteirs in Imaging]]
+** [[https://www.frontiersin.org/journals/big-data/rss][Fronteirs in Big Data]]
+** [[https://www.frontiersin.org/journals/applied-mathematics-and-statistics/rss][Fronteirs in Applied Mathematics and Statistics]]
+** [[https://www.frontiersin.org/journals/biophysics/rss][Fronteirs in Biophysics]]
 * IEEE                                                               :elfeed:
 ** [[https://ieeexplore.ieee.org/rss/TOC5992.XML][Computing in Science & Engineering]]
 ** [[https://ieeexplore.ieee.org/rss/TOC2945.XML][IEEE Transactions on Visualization and Computer Graphics]]
@@ -69,10 +82,6 @@
 ** [[https://jair.org/index.php/jair/issue/current/feed][JAIR]]
 * Journal of Open Source Software                                          :elfeed:
 ** [[https://joss.theoj.org/papers/published.atom][ Journal of Open Source Software]]
-** [[https://rss.sciencedirect.com/publication/science/10478477][Journal of Structural Biology]]
-** [[https://rss.sciencedirect.com/publication/science/10933263][Molecuar Graphics and Modelling]]
-** [[https://rss.sciencedirect.com/publication/science/10972765][Moleuclar Cell]]
-** [[https://rss.sciencedirect.com/publication/science/09692126][Structure]]
 * Journal of Statistical Software                                    :elfeed:
 ** [[https://www.jstatsoft.org/gateway/plugin/WebFeedGatewayPlugin/atom][Journal Statistical Software]]
 * MDPI                                                               :elfeed:
