@@ -4,7 +4,8 @@
 
 # Blaine's elfeed.org file
 
-Elfeed is a package for the powerful editor Emacs that provides an interface to the most recent current contents of selected journals.
+Elfeed is a package for the highly customizable text editor Emacs.
+This package provides an interface to the most recent current contents of selected journals.
 Elfeed provides direct links to each article for further exploration.
 Elfeed spares you of the trouble of visiting the current contents of each journal to find papers of interest.
 This form of literature searching compliments keyword or topic-driven searches.
