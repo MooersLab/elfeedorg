@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-# Blaine's elfeed.org file
+# Blaine's elfeed.org file of RSS feeds of interest
 
 Elfeed is a package for the highly customizable text editor Emacs.
 This package provides an interface to the most recent current contents of selected journals.
