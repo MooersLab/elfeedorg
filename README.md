@@ -21,10 +21,9 @@ For example, org-mode supports parallel polyglot literate programming, which is 
 
 The main kind of feed that I follow are the current contents of journals.
 Some other kinds of websites like blogs will also have RSS feeds.
-I have a few emails related RSS feeds
 
 This collection of RSS feeds is driven by my research needs and interests. 
-My set of interest include the following:
+My interests include the following:
 
 - Biochemistry
 - Molecular Biology
@@ -67,8 +66,9 @@ This is the configuration that I use in my init.el file:
 ## Update history
 
 |Version      | Changes                                                                                                                                                                         | Date                 |
-|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
-| Version 0.1 |   Added badges, funding, and update table.  Initial commit.                                                                                                                | 11/13/2025  |
+|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
+| Version 0.1 |   Added badges, funding, and update table.  Initial commit.                                                                                        | 11/13/2025  |
+| Version 0.2 |  Changed the heirarchy in elfeedorg                                                                                                               ---------- | 11/14/2025  |
 
 ## Sources of funding
 
