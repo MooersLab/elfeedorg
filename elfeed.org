@@ -32,8 +32,9 @@
 ** [[https://www.annualreviews.org/rss/content/journals/pharmtox/latestarticles?fmt=rss][Annual Review of Pharmacology and Toxicology]]
 ** [[https://www.annualreviews.org/rss/content/journals/physchem/latestarticles?fmt=rss][Annual Review of Physical Chemistry]]
 ** [[https://www.annualreviews.org/rss/content/journals/statistics/latestarticles?fmt=rss][Annual Review of Statistics and its Application]]
-* Biorxiv                                                            :elfeed:
-** [[http://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics+bioengineering+biophysics+biochemistry+cancer][Biorxiv]]
+* rxiv                                                            :elfeed:
+** [[http://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics+bioengineering+biophysics+biochemistry+cancer][biorxiv]]
+** [[https://chemrxiv.org/rss/portal/chemrxiv][chemrxiv]]
 * Cell Press                                                         :elfeed:
 ** [[http://www.cell.com/biophysj/current.rss][Biophysical Journal, current]]
 ** [[http://www.cell.com/biophysj/inpress.rss][Biophysical Journal, in press]]
@@ -111,6 +112,8 @@
 ** [[https://joss.theoj.org/papers/published.atom][ Journal of Open Source Software]]
 * Journal of Statistical Software                                    :elfeed:
 ** [[https://www.jstatsoft.org/gateway/plugin/WebFeedGatewayPlugin/atom][Journal Statistical Software]]
+* Kitchin Lab                                                   :elfeed:
+** [[http://kitchingroup.cheme.cmu.edu/blog/feed/index.xml][blog]]
 * MDPI                                                               :elfeed:
 ** [[https://www.mdpi.com/rss/journal/biomolecules][Biomlecules]]
 ** [[https://www.mdpi.com/rss/journal/crystals][Crystals]]
