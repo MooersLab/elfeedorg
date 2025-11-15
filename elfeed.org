@@ -80,6 +80,7 @@
 *** [[https://rss.sciencedirect.com/publication/science/00220248][Journal of Crystal Growth]]
 *** [[https://rss.sciencedirect.com/publication/science/00222836][Journal of Molecular Biology]]
 *** [[https://rss.sciencedirect.com/publication/science/00222860][Journal of Molecular Structure]]
+*** [[https://rss.sciencedirect.com/publication/science/10462023][Methods]]
 *** [[https://rss.sciencedirect.com/publication/science/01689002][Nucl. Instrum. Methods Phys. Res., Sect. A]]
 *** [[https://rss.sciencedirect.com/publication/science/10478477][Journal of Structural Biology]]
 *** [[https://rss.sciencedirect.com/publication/science/10933263][Molecuar Graphics and Modelling]]
@@ -88,12 +89,17 @@
 ** Emacs                                                              :emacs:
 *** [[https://planet.emacslife.com/atom.xml][EmacsLife]]
 *** [[http://planet.emacsen.org/atom.xml][Emacsen]]
+*** [[https://www.masteringemacs.org/feed][Mickey Petterson Mastering Emacs]]
+*** [[https://macadie.info/category/emacs/feed/][Eric MacAdie Emacs Meetup Reports]]
 *** [[https://www.reddit.com/r/orgmode/.rss][reddit/orgmode]]
 *** [[https://www.reddit.com/r/emacs/.rss][reddit/emacs]]
-*** [[https://blog.tecosaur.com/tmio/rss.xml][tecosaur]]
+*** [["http://kitchingroup.cheme.cmu.edu/blog/feed/index.xml"][kitchin group blog]]
+*** [[https://protesilaos.com/master.xml][Protesilaos blog]]
+*** [[https://blog.tecosaur.com/tmio/rss.xml][tecosaur blog]]
 *** [[http://emacs.stackexchange.com/feeds][emacs/stackoverflow]]
 *** [[https://sachachua.com/blog/category/emacs-news/feed/][emacs-news]]
 *** [[https://raw.githubusercontent.com/emacstv/emacstv.github.io/refs/heads/main/videos.org][Emacs TV]]
+*** [[https://irreal.org/blog/?feed=rss2][Irreal blog post]]
 ** EMBO                                                          :EMBO:
 *** [[https://www.embopress.org/feed/14602075/most-recent][EMBO Journal]]
 *** [[https://www.embopress.org/feed/14693178/most-recent][EMBO Reports]]
@@ -135,6 +141,8 @@
 *** [[https://www.mdpi.com/rss/journal/genes][Genes]]
 *** [[https://www.mdpi.com/rss/journal/ijms][International Journal of Molecular Sciences]]
 *** [[https://www.mdpi.com/rss/journal/molecules][Molecules]]
+** Methods
+
 ** Nature                                                             :nature:
 *** [[https://www.nature.com/nature.rss][Nature]]
 *** [[https://www.nature.com/npjdrugdiscov.rss][npj | Drug Discovery]]
@@ -182,8 +190,10 @@
 *** [[https://www.science.org/action/showFeed?type=axatoc&feed=rss&jc=science][Science]]
 *** [[https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv][Science Advances]]
 ** SpringerNature                                                            :SpringerNature:
+*** [[https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10989&channel-name=International+Journal+of+Peptide+Research+and+Therapeutics][International Journal of Peptide Research and Therapeutics ]]
 *** [[https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10870&channel-name=Journal+of+Chemical+Crystallography][Journal of Chemical Crystallography]]
 *** [[https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=214&channel-name=Theoretical+Chemistry+Accounts][Theoretical Chemistry Accounts]]
+*** [[https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=214&channel-name=Statistics+and+Computing][Statitics and Computing]]
 ** Taylor and Francis (tandf)                                               :tandf:
 *** [[https://www.tandfonline.com/feed/rss/daab20][Advances and Applications in Bioinformatics and Chemistry]]
 *** [[https://www.tandfonline.com/feed/rss/gipe21][Applied Mathematics in Science and Engineering]]
