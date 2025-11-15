@@ -226,6 +226,8 @@
 *** [[https://onlinelibrary.wiley.com/feed/15213773/most-recent][Angewandte Chemie International Edition, IF 11]]
 *** [[https://onlinelibrary.wiley.com/feed/10970282/most-recent][Bioploymers, recent]]
 *** [[https://onlinelibrary.wiley.com/feed/10970282/most-cited][Bioploymers, cited]]
+*** [[https://chemistry-europe.onlinelibrary.wiley.com/feed/26289725/most-recent][[Chemistry Methods]]
+*** [[https://chemistry-europe.onlinelibrary.wiley.com/feed/14397633/most-recent][ChemBioChem]]
 *** [[https://onlinelibrary.wiley.com/action/showFeed?jc=1097461x&type=etoc&feed=rss][International Journal of Quantum Chemistry]]
 *** [[https://onlinelibrary.wiley.com/action/showFeed?jc=1096987x&type=etoc&feed=rss][Journal of Computational Chemistry]]
 *** [[https://onlinelibrary.wiley.com/feed/1469896x/most-recent][Protein Science, recent]]
