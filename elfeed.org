@@ -1,256 +1,264 @@
 * Feeds                                                              :elfeed:
 ** American Chemical Society                                          :ACS:
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=acbcct][ACS Chemical Biology]]
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aidcbc][ACS Infectious Diseases]]
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=apcach][ACS Physical Chemistry Au]]
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=bichaw][Biochemistry]]
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=bomaf6][Biomacromolecules]]
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=chreay][Chemical Reviews]]
-
-*** [[http://feeds.feedburner.com/acs/cgdefu][Crystal Growth \& Design]]
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat][Journal of the American Chemical Society]]
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jceda8][Journal of Chemical Education]]
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jcisd8][Journal of Chemical Information and Modeling]]
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jctcce][Journal of Chemical Theory and Computation]]
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jmcmar][Journal of Medicinal Chemistry]]
-
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcafh][Journal of Physical Chemistry A]]
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcbfk][Journal of Physical Chemistry B]]
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpccck][Journal of Physical Chemistry C]]
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpclcd][Journal of Physical Chemistry Letters]]
-
-*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=psabes][Photon Science]]
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=acbcct][ACS Chemical Biology]]                                                             :ACSchemBiol:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=aidcbc][ACS Infectious Diseases]]                                                          :ACSinfectDis:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=amlccd][ACS Medicinal Chemistry Letters]]                                                  :ACSmedChemLet:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=apcach][ACS Physical Chemistry Au]]                                                        :ACSPhysChem:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=bichaw][Biochemistry]]                                                                     :Biochem:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=bomaf6][Biomacromolecules]]                                                                :Biomacromol:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=chreay][Chemical Reviews]]                                                                 :ChemRev:
+*** [[http://feeds.feedburner.com/acs/cgdefu][Crystal Growth \& Design]]                                                                                      :CrysGrowDesign:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat][Journal of the American Chemical Society]]                                         :JACS:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jceda8][Journal of Chemical Education]]                                                    :JCE:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jcisd8][Journal of Chemical Information and Modeling]]                                     :JCIM:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jctcce][Journal of Chemical Theory and Computation]]                                       :JCTC:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jmcmar][Journal of Medicinal Chemistry]]                                                   :JMC:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcafh][Journal of Physical Chemistry A]]                                                  :JPCA:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpcbfk][Journal of Physical Chemistry B]]                                                  :JPCB:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpccck][Journal of Physical Chemistry C]]                                                  :JPCC:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jpclcd][Journal of Physical Chemistry Letters]]                                            :JPCL:
+*** [[https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=psabes][Photon Science]]                                                                   :PhotonSci:
 ** American Institute of Physics                                      :AIP:
-*** [[https://pubs.aip.org/apb/rss/current.xml][APL Bioengineering]]
-*** [[https://pubs.aip.org/aml/rss/current.xml][APL Machine Learning]]
-*** [[https://pubs.aip.org/apq/rss/current.xml][APL Quantum]]
-*** [[https://pubs.aip.org/bpr/rss/current.xml][Biophysics Reviews]]
-*** [[https://pubs.aip.org/cpr/rss/current.xml][Chemical Physics Reviews]]
-*** [[https://pubs.aip.org/aip/jcp/rss/current.xml][Journal Chemistry and Physics]]
-*** [[https://pubs.aip.org/rsi/rsi/rss/current.xml][Review of Scientific Instruments]]
-*** [[https://pubs.aip.org/aca/sdy/rss/current.xml][Structural Dynamics]]
+*** [[https://pubs.aip.org/apb/rss/current.xml][APL Bioengineering]]                                                                                          :APLBioeng:
+*** [[https://pubs.aip.org/aml/rss/current.xml][APL Machine Learning]]                                                                                        :APLML:
+*** [[https://pubs.aip.org/apq/rss/current.xml][APL Quantum]]                                                                                                 :APLQ:
+*** [[https://pubs.aip.org/bpr/rss/current.xml][Biophysics Reviews]]                                                                                          :BioRev:
+*** [[https://pubs.aip.org/cpr/rss/current.xml][Chemical Physics Reviews]]                                                                                    :ChemPhysRev:
+*** [[https://pubs.aip.org/aip/jcp/rss/current.xml][Journal Chemistry and Physics]]                                                                           :JChemPhys:
+*** [[https://pubs.aip.org/rsi/rsi/rss/current.xml][Review of Scientific Instruments]]                                                                        :RevSciInst:
+*** [[https://pubs.aip.org/aca/sdy/rss/current.xml][Structural Dynamics]]                                                                                     :StrucDyn:
 ** Annual Reviews                                                            :AR:
-*** [[https://www.annualreviews.org/rss/content/journals/biochem/latestarticles?fmt=rss][Annual Review of Biochemistry]]
-*** [[https://www.annualreviews.org/rss/content/journals/biodatasci/latestarticles?fmt=rss][Annual Review of Biomedical Data Science]]
-*** [[https://www.annualreviews.org/rss/content/journals/biophys/latestarticles?fmt=rss][Annual Review of Biophysics]]
-*** [[https://www.annualreviews.org/rss/content/journals/chembioeng/latestarticles?fmt=rss][Annual Review of Chemical and Biomolecular Engineering]]
-*** [[https://www.annualreviews.org/rss/content/journals/micro/latestarticles?fmt=rss][Annual Review of Microbiology]]
-*** [[https://www.annualreviews.org/rss/content/journals/pharmtox/latestarticles?fmt=rss][Annual Review of Pharmacology and Toxicology]]
-*** [[https://www.annualreviews.org/rss/content/journals/physchem/latestarticles?fmt=rss][Annual Review of Physical Chemistry]]
-*** [[https://www.annualreviews.org/rss/content/journals/statistics/latestarticles?fmt=rss][Annual Review of Statistics and its Application]]
+*** [[https://www.annualreviews.org/rss/content/journals/biochem/latestarticles?fmt=rss][Annual Review of Biochemistry]]                                      :ARBiochem:
+*** [[https://www.annualreviews.org/rss/content/journals/biodatasci/latestarticles?fmt=rss][Annual Review of Biomedical Data Science]]                        :ARBioDataSci:
+*** [[https://www.annualreviews.org/rss/content/journals/biophys/latestarticles?fmt=rss][Annual Review of Biophysics]]                                        :ARBiophysics:
+*** [[https://www.annualreviews.org/rss/content/journals/chembioeng/latestarticles?fmt=rss][Annual Review of Chemical and Biomolecular Engineering]]          :ARChemBiomEng:
+*** [[https://www.annualreviews.org/rss/content/journals/micro/latestarticles?fmt=rss][Annual Review of Microbiology]]                                        :ARmicrobio:
+*** [[https://www.annualreviews.org/rss/content/journals/pharmtox/latestarticles?fmt=rss][Annual Review of Pharmacology and Toxicology]]                      :ARPharmTox:
+*** [[https://www.annualreviews.org/rss/content/journals/physchem/latestarticles?fmt=rss][Annual Review of Physical Chemistry]]                               :ARPhysChem:
+*** [[https://www.annualreviews.org/rss/content/journals/statistics/latestarticles?fmt=rss][Annual Review of Statistics and its Application]]                 :ARStats:
 ** arxiv                                                            :preprints:
-*** [[https://rss.arxiv.org/rss/cs.AI][arxiv, computer science, artificial intelligence]]
-*** [[https://rss.arxiv.org/rss/cs.CV][arxiv, computer science, computer vision]]
-*** [[https://rss.arxiv.org/rss/cs.GR][arxiv, computer science, graphics]]
-*** [[https://rss.arxiv.org/rss/cs.HC][arxiv, computer science, human-computer interaction]]
-*** [[https://rss.arxiv.org/rss/cs.SE][arxiv, computer science, software engineering]]
-*** [[https://rss.arxiv.org/rss/cs.SD][arxiv, computer science, sound]]
-*** [[https://rss.arxiv.org/rss/q-bio.BM][arxiv, quantitative biology, biomolecules]]
-*** [[https://rss.arxiv.org/rss/stat.CO][arxiv, statistics, computation]]
-*** [[https://rss.arxiv.org/rss/stat.ML][arxiv, statistics, machine learning]]
-*** [[https://rss.arxiv.org/rss/stat.ME][arxiv, statistics, methodology]]
-*** [[https://rss.arxiv.org/rss/stat.OS][arxiv, statistics, other statistics]]
-*** [[https://rss.arxiv.org/rss/stat.TH][arxiv, statistics, statistical theory]]
-*** [[http://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics+bioengineering+biophysics+biochemistry+cancer][bioRxiv]]
-*** [[https://chemrxiv.org/rss/portal/chemrxiv][ChemRxiv]]
-*** [[https://www.techrxiv.org/][TechRxiv]]
-*** [[][SSRN]]
+*** [[https://rss.arxiv.org/rss/cs.AI][arxiv, computer science, artificial intelligence]]                                                                     :arxivAI:
+*** [[https://rss.arxiv.org/rss/cs.CV][arxiv, computer science, computer vision]]                                                                             :arxivCV:
+*** [[https://rss.arxiv.org/rss/cs.GR][arxiv, computer science, graphics]]                                                                                    :arxivGR:
+*** [[https://rss.arxiv.org/rss/cs.HC][arxiv, computer science, human-computer interaction]]                                                                  :arxivHC:
+*** [[https://rss.arxiv.org/rss/cs.SE][arxiv, computer science, software engineering]]                                                                        :arxivSE:
+*** [[https://rss.arxiv.org/rss/cs.SD][arxiv, computer science, sound]]                                                                                       :arxivSD:
+*** [[https://rss.arxiv.org/rss/q-bio.BM][arxiv, quantitative biology, biomolecules]]                                                                         :arxivBM:
+*** [[https://rss.arxiv.org/rss/stat.CO][arxiv, statistics, computation]]                                                                                     :arxivCO:
+*** [[https://rss.arxiv.org/rss/stat.ML][arxiv, statistics, machine learning]]                                                                                :arxivML:
+*** [[https://rss.arxiv.org/rss/stat.ME][arxiv, statistics, methodology]]                                                                                     :arxivME:
+*** [[https://rss.arxiv.org/rss/stat.OS][arxiv, statistics, other statistics]]                                                                                :arxivOS:
+*** [[https://rss.arxiv.org/rss/stat.TH][arxiv, statistics, statistical theory]]                                                                              :arxivTH:
+*** [[http://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics+bioengineering+biophysics+biochemistry+cancer][bioRxiv]]                              :arxivBE:
+*** [[https://chemrxiv.org/rss/portal/chemrxiv][ChemRxiv]]                                                                                                    :ChemRxiv:
+*** [[https://www.techrxiv.org/][TechRxiv]]                                                                                                                   :TechRxiv:
 ** Biomdedcentral
-*** [[https://jcheminf.biomedcentral.com/articles][Journal of Cheminformatics]]
+*** [[https://jcheminf.biomedcentral.com/articles][Journal of Cheminformatics]]                                                                               :JChemoInfo:
 ** Cell Press                                                         :CellPress:
-*** [[http://www.cell.com/biophysj/current.rss][Biophysical Journal, current]]
-*** [[http://www.cell.com/biophysj/inpress.rss][Biophysical Journal, in press]]
-*** [[http://www.cell.com/biophysreports/current.rss][Biophysical Reports, current]]
-*** [[http://www.cell.com/biophysreports/inpress.rss][Biophysical Reports, in press]]
-*** [[http://www.cell.com/cell/current.rss][Cell, current]]
-*** [[http://www.cell.com/cell/inpress.rss][Cell, in press]]
-*** [[https://www.cell.com/cell-chemical-biology/current.rss][Cell Chemical Biology, current]]
-*** [[https://www.cell.com/cell-chemical-biology/inpress.rss][Cell Chemical Biology, in press]]
-*** [[http://www.cell.com/molecular-cell/current.rss][Molecular Cell, current]]
-*** [[http://www.cell.com/molecular-cell/inpress.rss][Molecular Cell, in press]]
-*** [[http://www.cell.com/structure/current.rss][Structure, current]]
-*** [[http://www.cell.com/structure/inpress.rss][Structure, in press]]
+*** [[http://www.cell.com/biophysj/current.rss][Biophysical Journal, current]]                                                                                :BiophysJ:
+*** [[http://www.cell.com/biophysj/inpress.rss][Biophysical Journal, in press]]                                                                               :BiophysJ:
+*** [[http://www.cell.com/biophysreports/current.rss][Biophysical Reports, current]]                                                                          :BiophysR:
+*** [[http://www.cell.com/biophysreports/inpress.rss][Biophysical Reports, in press]]                                                                         :BiophysR:
+*** [[http://www.cell.com/cell/current.rss][Cell, current]]                                                                                                   :Cell:
+*** [[http://www.cell.com/cell/inpress.rss][Cell, in press]]                                                                                                  :Cell:
+*** [[https://www.cell.com/cell-chemical-biology/current.rss][Cell Chemical Biology, current]]                                                                :CellChemBiol:
+*** [[https://www.cell.com/cell-chemical-biology/inpress.rss][Cell Chemical Biology, in press]]                                                               :CellChemBiol:
+*** [[http://www.cell.com/molecular-cell/current.rss][Molecular Cell, current]]                                                                               :MolCell:
+*** [[http://www.cell.com/molecular-cell/inpress.rss][Molecular Cell, in press]]                                                                              :MolCell:
+*** [[http://www.cell.com/structure/current.rss][Structure, current]]                                                                                         :Struct:
+*** [[http://www.cell.com/structure/inpress.rss][Structure, in press]]                                                                                        :Struct:
+*** [[https://www.sciencedirect.com/journal/european-journal-of-medicinal-chemistry/rss][European Journal of Medicinal Chemistry]]                            :EJMC:
 ** Cold Spring Harbor Publishers                                      :CSHP:
-*** [[http://rnajournal.cshlp.org/rss/current.xml][RNA, current]]
+*** [[http://rnajournal.cshlp.org/rss/current.xml][RNA, current]]                                                                                             :RNA:
 ** De Gruyter                                                         :DG:
-*** [[https://iupac.org/feed/][Pure and Applied Chemistry]]
+*** [[https://iupac.org/feed/][Pure and Applied Chemistry]]                                                                                                   :PAC:
 ** Elife                                                              :Elife:
-*** [[https://elifesciences.org/rss/subject/structural-biology-molecular-biophysics.xml][elife]]
+*** [[https://elifesciences.org/rss/subject/structural-biology-molecular-biophysics.xml][elife]]                                                              :elife:
 ** Elsevier (Science Direct)                                          :Elsevier:
-*** [[https://rss.sciencedirect.com/publication/science/00039861][Archives of Biochemistry and Biophysics]]
-*** [[https://rss.sciencedirect.com/publication/science/00928674][Cell]]
-*** [[https://rss.sciencedirect.com/publication/science/24519456][Cell Chemical Biology]]
-*** [[https://rss.sciencedirect.com/publication/science/20010370][Computational and Structural Biotechnology Journal]]
-*** [[https://www.sciencedirect.com/journal/computational-and-theoretical-chemistry/rss][Computational and Theoretical Chemistry]]
-*** [[https://rss.sciencedirect.com/publication/science/01692607][Computer Methods and Programs in Biomedicine]]
-*** [[https://rss.sciencedirect.com/publication/science/4630184][Crystal Engineering]]
-*** [[https://rss.sciencedirect.com/publication/science/13675931][Current Opinion in Chemical Biology]]
-*** [[https://rss.sciencedirect.com/publication/science/0959440X][Current Opinion in Structural Biology]]
-*** [[https://rss.sciencedirect.com/publication/science/00220248][Journal of Crystal Growth]]
-*** [[https://rss.sciencedirect.com/publication/science/00222836][Journal of Molecular Biology]]            :JMB:
-*** [[https://rss.sciencedirect.com/publication/science/00222860][Journal of Molecular Structure]]          :JMS:
-*** [[https://rss.sciencedirect.com/publication/science/10462023][Methods]]
-*** [[https://rss.sciencedirect.com/publication/science/01689002][Nucl. Instrum. Methods Phys. Res., Sect. A]]
-*** [[https://rss.sciencedirect.com/publication/science/10478477][Journal of Structural Biology]]
-*** [[https://rss.sciencedirect.com/publication/science/10933263][Molecuar Graphics and Modelling]]
-*** [[https://rss.sciencedirect.com/publication/science/10972765][Moleuclar Cell]] :molcell:
-*** [[https://rss.sciencedirect.com/publication/science/09692126][Structure]]
+*** [[https://rss.sciencedirect.com/publication/science/00039861][Archives of Biochemistry and Biophysics]]                                                   :ABB:
+*** [[https://www.sciencedirect.com/journal/bioorganic-and-medicinal-chemistry/rss][Bioorganic & Medicinal Chemistry]]                                        :BMC:
+*** [[https://www.sciencedirect.com/journal/bioorganic-and-medicinal-chemistry-letters/rss][Bioorganic & Medicinal Chemistry Letters]]                        :BMCL:
+*** [[https://rss.sciencedirect.com/publication/science/00928674][Cell]]                                                                                      :CELL:
+*** [[https://rss.sciencedirect.com/publication/science/24519456][Cell Chemical Biology]]                                                                     :CCB:
+*** [[https://rss.sciencedirect.com/publication/science/20010370][Computational and Structural Biotechnology Journal]]                                        :CSBJ:
+*** [[https://www.sciencedirect.com/journal/computational-and-theoretical-chemistry/rss][Computational and Theoretical Chemistry]]                            :CTC:
+*** [[https://rss.sciencedirect.com/publication/science/01692607][Computer Methods and Programs in Biomedicine]]                                              :CMPB:
+*** [[https://rss.sciencedirect.com/publication/science/4630184][Crystal Engineering]]                                                                        :XE:
+*** [[https://rss.sciencedirect.com/publication/science/13675931][Current Opinion in Chemical Biology]]                                                       :COCB:
+*** [[https://rss.sciencedirect.com/publication/science/0959440X][Current Opinion in Structural Biology]]                                                     :COSB:
+*** [[https://www.sciencedirect.com/journal/drug-discovery-today/rss][Drug Discovery Today]]                                                                  :DDT:
+*** [[https://www.sciencedirect.com/journal/european-journal-of-medicinal-chemistry/rss][European Journal of Medicinal Chemistry]]                            :EJMC:
+*** [[https://rss.sciencedirect.com/publication/science/00220248][Journal of Crystal Growth]]                                                                 :JCG:
+*** [[https://rss.sciencedirect.com/publication/science/00222836][Journal of Molecular Biology]]                                                              :JMB:
+*** [[https://rss.sciencedirect.com/publication/science/00222860][Journal of Molecular Structure]]                                                            :JMS:
+*** [[https://rss.sciencedirect.com/publication/science/10462023][Methods]]                                                                                   :METH:
+*** [[https://rss.sciencedirect.com/publication/science/01689002][Nucl. Instrum. Methods Phys. Res., Sect. A]]                                                :NIMPRSA:
+*** [[https://rss.sciencedirect.com/publication/science/10478477][Journal of Structural Biology]]                                                             :JSB:
+*** [[https://rss.sciencedirect.com/publication/science/10933263][Molecular Graphics and Modelling]]                                                          :MGM: 
+*** [[https://rss.sciencedirect.com/publication/science/10972765][Moleuclar Cell]]                                                                            :mcell:
+*** [[https://rss.sciencedirect.com/publication/science/09692126][Structure]]                                                                                 :struc:
 ** Emacs                                                              :emacs:
-*** [[https://planet.emacslife.com/atom.xml][EmacsLife]] 
-*** [[http://planet.emacsen.org/atom.xml][Emacsen]]
-*** [[https://www.masteringemacs.org/feed][Mickey Petterson Mastering Emacs]]      :micky:
-*** [[https://macadie.info/category/emacs/feed/][Eric MacAdie Emacs Meetup Reports]]
-*** [[https://www.reddit.com/r/orgmode/.rss][reddit/orgmode]]
-*** [[https://www.reddit.com/r/emacs/.rss][reddit/emacs]]
-*** [["http://kitchingroup.cheme.cmu.edu/blog/feed/index.xml"][kitchin group blog]]
-*** [[https://protesilaos.com/master.xml][Protesilaos blog]]
-*** [[https://blog.tecosaur.com/tmio/rss.xml][tecosaur blog]]
-*** [[http://emacs.stackexchange.com/feeds][emacs/stackoverflow]]
-*** [[https://sachachua.com/blog/category/emacs-news/feed/][emacs-news]]
-*** [[https://raw.githubusercontent.com/emacstv/emacstv.github.io/refs/heads/main/videos.org][Emacs TV]]
-*** [[https://irreal.org/blog/?feed=rss2][Irreal blog post]]
+*** [[https://planet.emacslife.com/atom.xml][EmacsLife]]                                                                                                      :emacslife:
+*** [[http://planet.emacsen.org/atom.xml][Emacsen]]                                                                                                           :emacsen:
+*** [[https://www.masteringemacs.org/feed][Mickey Petterson Mastering Emacs]]                                                                                 :micky:
+*** [[https://macadie.info/category/emacs/feed/][Eric MacAdie Emacs Meetup Reports]]                                                                          :macadie:
+*** [[https://www.reddit.com/r/orgmode/.rss][reddit/orgmode]]                                                                                                 :redorg:
+*** [[https://www.reddit.com/r/emacs/.rss][reddit/emacs]]                                                                                                     :redemacs:
+*** [["http://kitchingroup.cheme.cmu.edu/blog/feed/index.xml"][kitchin group blog]]                                                                           :kitchin:
+*** [[https://protesilaos.com/master.xml][Protesilaos blog]]                                                                                                  :prot:
+*** [[https://blog.tecosaur.com/tmio/rss.xml][tecosaur blog]]                                                                                                 :tecosaur:
+*** [[http://emacs.stackexchange.com/feeds][emacs/stackoverflow]]                                                                                             :soflow:
+*** [[https://sachachua.com/blog/category/emacs-news/feed/][emacs-news]]                                                                                      :enews:
+*** [[https://raw.githubusercontent.com/emacstv/emacstv.github.io/refs/heads/main/videos.org][Emacs TV]]                                                      :emacsTV:
+*** [[https://irreal.org/blog/?feed=rss2][Irreal blog post]]                                                                                                  :irreal:
 ** EMBO                                                          :EMBO:
-*** [[https://www.embopress.org/feed/14602075/most-recent][EMBO Journal]]
-*** [[https://www.embopress.org/feed/14693178/most-recent][EMBO Reports]]
+*** [[https://www.embopress.org/feed/14602075/most-recent][EMBO Journal]]                                                                                     :emboj:
+*** [[https://www.embopress.org/feed/14693178/most-recent][EMBO Reports]]                                                                                     :emborep:
+** Eureka                                                                       :Eureka:
+*** [[https://www.eurekaselect.com/rss/journal/25][Current Medicinal Chemistry]]
 ** Frontiers.org                                                      :frontiers:
-*** [[https://www.frontiersin.org/journals/artificial-intelligence/rss][Fronteirs in Artificial Intelligence]]
-*** [[https://www.frontiersin.org/journals/molecular-biosciences/rss][Fronteirs in Molecular Biosciences]]
-*** [[https://www.frontiersin.org/journals/rna-research/rss][Fronteirs in RNA Research]]
-*** [[https://www.frontiersin.org/journals/chemistry/rss][Fronteirs in Chemistry]]
-*** [[https://www.frontiersin.org/journals/molecular-biosciences/rss][Fronteirs in Molecular Biosciences]]
-*** [[https://www.frontiersin.org/journals/bioinformatics/rss][Fronteirs in Bioinformatics]]
-*** [[https://www.frontiersin.org/journals/imaging/rss][Fronteirs in Imaging]]
-*** [[https://www.frontiersin.org/journals/big-data/rss][Fronteirs in Big Data]]
-*** [[https://www.frontiersin.org/journals/applied-mathematics-and-statistics/rss][Fronteirs in Applied Mathematics and Statistics]]
-*** [[https://www.frontiersin.org/journals/biophysics/rss][Fronteirs in Biophysics]]
+*** [[https://www.frontiersin.org/journals/artificial-intelligence/rss][Fronteirs in Artificial Intelligence]]                                                :FArtIntel:
+*** [[https://www.frontiersin.org/journals/molecular-biosciences/rss][Fronteirs in Molecular Biosciences]]                                                    :FMolBiosc:
+*** [[https://www.frontiersin.org/journals/rna-research/rss][Fronteirs in RNA Research]]                                                                      :FRNAres:
+*** [[https://www.frontiersin.org/journals/chemistry/rss][Fronteirs in Chemistry]]                                                                            :FChem:
+*** [[https://www.frontiersin.org/journals/molecular-biosciences/rss][Fronteirs in Molecular Biosciences]]                                                    :FMolBio:
+*** [[https://www.frontiersin.org/journals/bioinformatics/rss][Fronteirs in Bioinformatics]]                                                                  :FBioInfor:
+*** [[https://www.frontiersin.org/journals/imaging/rss][Fronteirs in Imaging]]                                                                                :FImaging:
+*** [[https://www.frontiersin.org/journals/big-data/rss][Fronteirs in Big Data]]                                                                              :FBigData:
+*** [[https://www.frontiersin.org/journals/applied-mathematics-and-statistics/rss][Fronteirs in Applied Mathematics and Statistics]]                          :FAppMathStat:
+*** [[https://www.frontiersin.org/journals/biophysics/rss][Fronteirs in Biophysics]]                                                                          :FBiophy:
 ** IEEE                                                               :ieee:
-*** [[https://ieeexplore.ieee.org/rss/TOC5992.XML][Computing in Science & Engineering]]
-*** [[https://ieeexplore.ieee.org/rss/TOC2945.XML][IEEE Transactions on Visualization and Computer Graphics]]
+*** [[https://ieeexplore.ieee.org/rss/TOC5992.XML][Computing in Science & Engineering]]                                                                       :CiSE:
+*** [[https://ieeexplore.ieee.org/rss/TOC2945.XML][IEEE Transactions on Visualization and Computer Graphics]]                                                 :VisCG:
 ** IUCr                                                               :elfeed:
-*** [[https://journals.iucr.org/j/rss10.xml][JAppliedCrystallography]]                      :JAC:
-*** [[https://journals.iucr.org/s/rss10.xml][SynchRad]]                                     :SynchRad:
-*** [[https://journals.iucr.org/m/rss10.xml][IUCrData]]                                     :IUCrData:
-*** [[https://journals.iucr.org/m/rss10.xml][IUCrJ]]                                        :IUCrJ:
-*** [[https://journals.iucr.org/a/rss10.xml][Acta Cryst Section A]]                         :sectA:
-*** [[https://journals.iucr.org/b/rss10.xml][Acta Cryst Section B]]                         :sectB:
-*** [[https://journals.iucr.org/c/rss10.xml][Acta Cryst Section C]]                         :sectC:
-*** [[https://journals.iucr.org/d/rss10.xml][Acta Cryst Section D]]                         :sectD:
-*** [[https://journals.iucr.org/f/rss10.xml][Acta Cryst Section F]]                         :sectF:
+*** [[https://journals.iucr.org/j/rss10.xml][JAppliedCrystallography]]                                                                                        :JAC:
+*** [[https://journals.iucr.org/s/rss10.xml][SynchRad]]                                                                                                       :SynchRad:
+*** [[https://journals.iucr.org/m/rss10.xml][IUCrData]]                                                                                                       :IUCrData:
+*** [[https://journals.iucr.org/m/rss10.xml][IUCrJ]]                                                                                                          :IUCrJ:
+*** [[https://journals.iucr.org/a/rss10.xml][Acta Cryst Section A]]                                                                                           :sectA:
+*** [[https://journals.iucr.org/b/rss10.xml][Acta Cryst Section B]]                                                                                           :sectB:
+*** [[https://journals.iucr.org/c/rss10.xml][Acta Cryst Section C]]                                                                                           :sectC:
+*** [[https://journals.iucr.org/d/rss10.xml][Acta Cryst Section D]]                                                                                           :sectD:
+*** [[https://journals.iucr.org/f/rss10.xml][Acta Cryst Section F]]                                                                                           :sectF:
 ** Journal of Artificial Intelligence Reseach                                               :JAIR:
-*** [[https://jair.org/index.php/jair/issue/current/feed][JAIR]]
+*** [[https://jair.org/index.php/jair/issue/current/feed][JAIR]]                                                                                              :jair:
 ** Journal of Open Source Software                                                          :JOSS:
-*** [[https://joss.theoj.org/papers/published.atom][ Journal of Open Source Software]]
+*** [[https://joss.theoj.org/papers/published.atom][ Journal of Open Source Software]]                                                                        :joss:
 ** Journal of Statistical Software                                    :JSS:
-*** [[https://www.jstatsoft.org/gateway/plugin/WebFeedGatewayPlugin/atom][Journal Statistical Software]]
+*** [[https://www.jstatsoft.org/gateway/plugin/WebFeedGatewayPlugin/atom][Journal Statistical Software]]                                                      :jss:
 ** Kitchin Lab                                                   :Kitchin:
-*** [[http://kitchingroup.cheme.cmu.edu/blog/feed/index.xml][blog]]
+*** [[http://kitchingroup.cheme.cmu.edu/blog/feed/index.xml][blog]]                                                                                           :kitchin:
 ** MDPI                                                               :MDPI:
-*** [[https://www.mdpi.com/rss/journal/biomolecules][Biomlecules]]
-*** [[https://www.mdpi.com/rss/journal/crystals][Crystals]]
-*** [[https://www.mdpi.com/rss/journal/genes][Genes]]
-*** [[https://www.mdpi.com/rss/journal/ijms][International Journal of Molecular Sciences]]
-*** [[https://www.mdpi.com/rss/journal/molecules][Molecules]]
+*** [[https://www.mdpi.com/rss/journal/biomolecules][Biomlecules]]                                                                                            :biomol:
+*** [[https://www.mdpi.com/rss/journal/crystals][Crystals]]                                                                                                   :crystals:
+*** [[https://www.mdpi.com/rss/journal/genes][Genes]]                                                                                                         :genes:
+*** [[https://www.mdpi.com/rss/journal/ijms][International Journal of Molecular Sciences]]                                                                    :ijms:
+*** [[https://www.mdpi.com/rss/journal/molecules][Molecules]]                                                                                                 :molecules:
 ** Nature                                                             :nature:
-*** [[https://www.nature.com/nature.rss][Nature]]
-*** [[https://www.nature.com/npjdrugdiscov.rss][npj | Drug Discovery]]
-*** [[https://www.nature.com/nbt.rss][Nature Biotechnology, IF 18]]
-*** [[https://www.nature.com/natcancer.rss][Nature Cancer]]
-*** [[https://www.nature.com/nchembio.rss][Nature Chemical Biology]]
-*** [[https://www.nature.com/nchem.rss][Nature Chemistry]]
-*** [[https://www.nature.com/ncomms.rss][Nature Communications]]
-*** [[https://www.nature.com/subjects/computational-chemistry.rss][Nature Computational Chemistry]]
-*** [[https://www.nature.com/nmeth.rss][Nature Methods]]
-*** [[https://www.nature.com/nnano.rss][Nature Nanotechnology]]
-*** [[https://www.nature.com/nrd.rss][Nature Reviews Drug Discovery]]
-*** [[https://www.nature.com/nsmb.rss][Nature Structure and Molecular Biology]]
-*** [[https://www.nature.com/sdata.rss][Nature Scientific Data]] 
-*** [[https://www.nature.com/srep.rss][Scientific Reports, IF 4.5]]
-*** [[https://www.nature.com/sdata.rss][Scientific Data, IF 10]]
+*** [[https://www.nature.com/nature.rss][Nature]]                                                                                                             :nature:
+*** [[https://www.nature.com/commschemrss][Communications Chemistry]]                                                                                         :comchem:
+*** [[https://www.nature.com/npjdrugdiscov.rss][npj | Drug Discovery]]                                                                                        :drugdiscovery:
+*** [[https://www.nature.com/nbt.rss][Nature Biotechnology, IF 18]]                                                                                           :natbiotech:
+*** [[https://www.nature.com/natcancer.rss][Nature Cancer]]                                                                                                   :natcancer:
+*** [[https://www.nature.com/nchembio.rss][Nature Chemical Biology]]                                                                                          :natchembiol:
+*** [[https://www.nature.com/nchem.rss][Nature Chemistry]]                                                                                                    :natchem:
+*** [[https://www.nature.com/ncomms.rss][Nature Communications]]                                                                                              :natcomm:
+*** [[https://www.nature.com/subjects/computational-chemistry.rss][Nature Computational Chemistry]]                                                           :natcomchem:
+*** [[https://www.nature.com/nmeth.rss][Nature Methods]]                                                                                                      :natmethods:
+*** [[https://www.nature.com/nnano.rss][Nature Nanotechnology]]                                                                                               :natnanotech:
+*** [[https://www.nature.com/natrevchem.rss][Nature Reviews Chemistry]]                                                                                       :natrevchem:
+*** [[https://www.nature.com/nrd.rss][Nature Reviews Drug Discovery]]                                                                                         :natrevdrugdis:
+*** [[https://www.nature.com/nsmb.rss][Nature Structure and Molecular Biology]]                                                                               :natstrucmolbio:
+*** [[https://www.nature.com/sdata.rss][Nature Scientific Data]]                                                                                              :natscidata:
+*** [[https://www.nature.com/srep.rss][Scientific Reports, IF 4.5]]                                                                                           :scirep:
+*** [[https://www.nature.com/sdata.rss][Scientific Data, IF 10]]                                                                                              :scidata:
 ** Oxford University Press                                                           :OUP:
-*** [[https://academic.oup.com/rss/site_5141/3003.xml][Bioinformatics]]
-*** [[https://academic.oup.com/rss/site_5265/3131.xml][Biometrika]]
-*** [[https://academic.oup.com/rss/site_5324/3091.xml][Briefings in Bioinformatics]]
-*** [[https://academic.oup.com/rss/site_5127/3091.xml][Nucleic Acids Research]]
+*** [[https://academic.oup.com/rss/site_5141/3003.xml][Bioinformatics]]                                                                                       :bioinf:
+*** [[https://academic.oup.com/rss/site_5265/3131.xml][Biometrika]]                                                                                           :biomet:
+*** [[https://academic.oup.com/rss/site_5324/3091.xml][Briefings in Bioinformatics]]                                                                          :briefbioin:
+*** [[https://academic.oup.com/rss/site_5127/3091.xml][Nucleic Acids Research]]                                                                               :NAR:
 ** PLoS                                                               :PLOS:
-*** [[https://journals.plos.org/ploscompbiol/feed/atom][PLoS Computational Biology]]
-*** [[https://journals.plos.org/plosbiology/feed/atom][PLoS Biology]]
-*** [[https://journals.plos.org/plosone/feed/atom][PLoS One]]
+*** [[https://journals.plos.org/ploscompbiol/feed/atom][PLoS Computational Biology]]                                                                          :PLOSCB:
+*** [[https://journals.plos.org/plosbiology/feed/atom][PLoS Biology]]                                                                                         :PLOSBiol:
+*** [[https://journals.plos.org/plosone/feed/atom][PLoS One]]                                                                                                 :PLOSOne:
 ** PNAS                                                               :PNAS:
-*** [[https://www.pnas.org/about/rss][PNAS]]
+*** [[https://www.pnas.org/about/rss][PNAS]]                                                                                                                  :PNAS:
 ** Python                                                             :python:
-*** [[https://raw.githubusercontent.com/mahmoud/awesome-python-applications/master/atom.xml][Awesome Python Applications]]
-*** [[https://www.planetpython.org/rss20.xml][Planet Python]]
+*** [[https://raw.githubusercontent.com/mahmoud/awesome-python-applications/master/atom.xml][Awesome Python Applications]]                                    :AwePy:
+*** [[https://www.planetpython.org/rss20.xml][Planet Python]]                                                                                                 :PlanetPy:
 *** [[http://planet.scipy.org/rss20.xml][scipy]]
-** Royal Society of Chemistry                                          :RSC:
-*** [[http://feeds.rsc.org/rss/sc][Chemical Science]]
-*** [[http://feeds.rsc.org/rss/en][CrystEngComm]]
-*** [[http://feeds.rsc.org/rss/fd][Faraday Discussions]]
-*** [[http://feeds.rsc.org/rss/cp][Phys. Chem. Chem. Phys.]]
-*** [[http://feeds.rsc.org/rss/me][Mol. Syst. Des. Eng.]]
-*** [[http://feeds.rsc.org/rss/rp][Chem. Educ. Res. Pract.]]
-*** [[http://feeds.rsc.org/rss/cp][Phys. Chem. Chem. Phys.]]
-*** [[http://feeds.rsc.org/rss/cb][RSC Chemical Biology]]
-*** [[http://feeds.rsc.org/rss/mc][RSC Medicinal Chemistry]]
-*** [[http://feeds.rsc.org/rss/pm][RSC Pharmaceutics]]
+** Royal Society of Chemistry                                          :RSC:  
+*** [[http://feeds.rsc.org/rss/sc][Chemical Science]]                                                                                                         :ChemSci:
+*** [[http://feeds.rsc.org/rss/en][CrystEngComm]]                                                                                                             :CrystEngComm:
+*** [[http://feeds.rsc.org/rss/fd][Faraday Discussions]]]                                                                                                     :FaraDis:
+*** [[http://feeds.rsc.org/rss/cp][Phys. Chem. Chem. Phys.]]                                                                                                  :PhChChPh:
+*** [[http://feeds.rsc.org/rss/me][Mol. Syst. Des. Eng.]]                                                                                                     :MolSysDesEng:
+*** [[http://feeds.rsc.org/rss/rp][Chem. Educ. Res. Pract.]]                                                                                                  :ChEdRePract:
+*** [[http://feeds.rsc.org/rss/cp][Phys. Chem. Chem. Phys.]]                                                                                                  :PhChChPh:
+*** [[http://feeds.rsc.org/rss/cb][RSC Chemical Biology]]                                                                                                     :RSCChBio:
+*** [[http://feeds.rsc.org/rss/mc][RSC Medicinal Chemistry]]                                                                                                  :RSCMedCh:
+*** [[http://feeds.rsc.org/rss/pm][RSC Pharmaceutics]]                                                                                                        :RSCPharm:
 ** SAGE                                                             :SAGE:
-*** [[https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=dsc&type=etoc&feed=rss][Data Science]]
-*** [[https://journals.sagepub.com/connected/tub#rss-feeds][Tumor Biology]]
+*** [[https://journals.sagepub.com/action/showFeed?ui=0&mi=ehikzz&ai=2b4&jc=dsc&type=etoc&feed=rss][Data Science]]                                            :DataSci:
+*** [[https://journals.sagepub.com/connected/tub#rss-feeds][Tumor Biology]]                                                                                   :TumorBiol:
 ** Science                                                            :Science:
-*** [[https://www.science.org/action/showFeed?type=axatoc&feed=rss&jc=science][Science]]
-*** [[https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv][Science Advances]]
+*** [[https://www.science.org/action/showFeed?type=axatoc&feed=rss&jc=science][Science]]                                                                      :science:
+*** [[https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv][Science Advances]]                                                                :sciadv:
 ** SpringerNature                                                            :SpringerNature:
-*** [[https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10989&channel-name=International+Journal+of+Peptide+Research+and+Therapeutics][International Journal of Peptide Research and Therapeutics ]]
-*** [[https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10870&channel-name=Journal+of+Chemical+Crystallography][Journal of Chemical Crystallography]]
-*** [[https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=214&channel-name=Theoretical+Chemistry+Accounts][Theoretical Chemistry Accounts]]
-*** [[https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=214&channel-name=Statistics+and+Computing][Statitics and Computing]]
-*** [[https://link.springer.com/journal/894.rss][Journal of Molecular Modeling]]
-*** [[https://link.springer.com/journal/10822.rss][Journal of Computer-Aided Molecular Design]]
-
+*** [[https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10989&channel-name=International+Journal+of+Peptide+Research+and+Therapeutics][International Journal of Peptide Research and Therapeutics ]]     :IJPRT:
+*** [[https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10870&channel-name=Journal+of+Chemical+Crystallography][Journal of Chemical Crystallography]]         :JChemCryst:
+*** [[https://link.springer.com/journal/44.rss][Medicinal Chemistry Research]]                                                                                :medchemres:
+*** [[https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=214&channel-name=Theoretical+Chemistry+Accounts][Theoretical Chemistry Accounts]]                :TheorChemAcc:
+*** [[https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=214&channel-name=Statistics+and+Computing][Statitics and Computing]]                             :StatComp:
+*** [[https://link.springer.com/journal/894.rss][Journal of Molecular Modeling]]                                                                              :JMolMod:
+*** [[https://link.springer.com/journal/10822.rss][Journal of Computer-Aided Molecular Design]]                                                               :JComAidMolDes:
 ** Taylor and Francis (tandf)                                               :tandf:
-*** [[https://www.tandfonline.com/feed/rss/daab20][Advances and Applications in Bioinformatics and Chemistry]]
-*** [[https://www.tandfonline.com/feed/rss/gipe21][Applied Mathematics in Science and Engineering]]
-*** [[https://www.tandfonline.com/feed/rss/ibtn20][BioTechniques]]
-*** [[https://www.tandfonline.com/feed/rss/lssp20][Communications in Statistics - Simulation and Computation]]
-*** [[https://www.tandfonline.com/feed/rss/gcry20][Crystallography Reviews]]
-*** [[https://www.tandfonline.com/feed/rss/geno20][Engineering Optimization]]
-*** [[https://www.tandfonline.com/feed/rss/uexm20][Experimental Mathematics]]
-*** [[https://www.tandfonline.com/feed/rss/gcom20][International Journal of Computer Mathematics]]
-*** [[https://www.tandfonline.com/feed/rss/tjms20][International Journal of Modelling and Simulation]]
-*** [[https://www.tandfonline.com/feed/rss/uasa20][Journal of the American Statistical Association]]
-*** [[https://www.tandfonline.com/feed/rss/cjas20][Journal of Applied Statistics]]
-*** [[https://www.tandfonline.com/feed/rss/tjes20][Journal of Applied Statistics: Environmental Statistics and Data Science]]
-*** [[https://www.tandfonline.com/feed/rss/lbps20][Journal of Biopharmaceutical Statistics]]
-*** [[https://www.tandfonline.com/journals/ucgs20][Journal of Computational and Graphical Statistics]]
-*** [[https://www.tandfonline.com/feed/rss/gnst20][Journal of Nonparametric Statistics]]
-*** [[https://www.tandfonline.com/feed/rss/gscs20][Journal of Statistical Computation and Simulation]]
-*** [[https://www.tandfonline.com/feed/rss/ujse21][Journal of Statistics and Data Science Education]]
-*** [[https://www.tandfonline.com/journals/tmls20][Mathematics in Medical and Life Sciences]]
-*** [[https://www.tandfonline.com/journals/tmph20][Molecular Physics]]
-*** [[https://www.tandfonline.com/feed/rss/gmos20][Molecular Simulation]]
-*** [[https://www.tandfonline.com/feed/rss/gopt20][Optimization]]
-*** [[https://www.tandfonline.com/journals/goms20][Optimization Methods and Software]]
-*** [[https://www.tandfonline.com/feed/rss/urst20][Research in Statistics]]
-*** [[https://www.tandfonline.com/feed/rss/usdi20][Statistics and Data Science in Imaging]]
-*** [[https://www.tandfonline.com/feed/rss/utas20][The American Statistician]]
-*** [[https://www.tandfonline.com/feed/rss/krnb20][RNA Biology]]
-*** [[https://www.tandfonline.com/feed/rss/utch20][Technometrics]]
+*** [[https://www.tandfonline.com/feed/rss/daab20][Advances and Applications in Bioinformatics and Chemistry]]                                                :AdvBioinfChem:
+*** [[https://www.tandfonline.com/feed/rss/gipe21][Applied Mathematics in Science and Engineering]]                                                           :AppliedMath:
+*** [[https://www.tandfonline.com/feed/rss/ibtn20][BioTechniques]]                                                                                            :BioTech:
+*** [[https://www.tandfonline.com/feed/rss/lssp20][Communications in Statistics - Simulation and Computation]]                                                :CommStats:
+*** [[https://www.tandfonline.com/feed/rss/gcry20][Crystallography Reviews]]                                                                                  :CrystRev:
+*** [[https://www.tandfonline.com/feed/rss/idrd20][Drug Design Development and Therapy]]                                                                      :DrugDesDev:
+*** [[https://www.tandfonline.com/feed/rss/geno20][Engineering Optimization]]                                                                                 :EngOpt:
+*** [[https://www.tandfonline.com/feed/rss/uexm20][Experimental Mathematics]]                                                                                 :ExpMath:
+*** [[https://www.tandfonline.com/feed/rss/ifmc20][Future Medicinal Chemistry]]                                                                               :FutureMedChem:
+*** [[https://www.tandfonline.com/feed/rss/gcom20][International Journal of Computer Mathematics]]                                                            :IntJComMath:
+*** [[https://www.tandfonline.com/feed/rss/tjms20][International Journal of Modelling and Simulation]]                                                        :IntJModSim:
+*** [[https://www.tandfonline.com/feed/rss/uasa20][Journal of the American Statistical Association]]                                                          :JASA:
+*** [[https://www.tandfonline.com/feed/rss/cjas20][Journal of Applied Statistics]]                                                                            :JAppStat:
+*** [[https://www.tandfonline.com/feed/rss/tjes20][Journal of Applied Statistics: Environmental Statistics and Data Science]]                                 :JAppStatsESDS:
+*** [[https://www.tandfonline.com/feed/rss/lbps20][Journal of Biopharmaceutical Statistics]]                                                                  :JBiopharmStats:
+*** [[https://www.tandfonline.com/journals/ucgs20][Journal of Computational and Graphical Statistics]]                                                        :JCGS:
+*** [[https://www.tandfonline.com/feed/rss/gnst20][Journal of Nonparametric Statistics]]                                                                      :JSCS:
+*** [[https://www.tandfonline.com/feed/rss/gscs20][Journal of Statistical Computation and Simulation]]                                                        :JStatCompSimu:
+*** [[https://www.tandfonline.com/feed/rss/ujse21][Journal of Statistics and Data Science Education]]                                                         :JStatsDataSci:
+*** [[https://www.tandfonline.com/journals/tmls20][Mathematics in Medical and Life Sciences]]                                                                 :MathMedLifeSciEd:
+*** [[https://www.tandfonline.com/journals/tmph20][Molecular Physics]]                                                                                        :MolPhys:
+*** [[https://www.tandfonline.com/feed/rss/gmos20][Molecular Simulation]]                                                                                     :MolSim:
+*** [[https://www.tandfonline.com/feed/rss/gopt20][Optimization]]                                                                                             :Opti:
+*** [[https://www.tandfonline.com/journals/goms20][Optimization Methods and Software]]                                                                        :OptMetDSoft:
+*** [[https://www.tandfonline.com/feed/rss/urst20][Research in Statistics]]                                                                                   :ResStat:
+*** [[https://www.tandfonline.com/feed/rss/usdi20][Statistics and Data Science in Imaging]]                                                                   :StatDataSciImg:
+*** [[https://www.tandfonline.com/feed/rss/utas20][The American Statistician]]                                                                                :AmStat:
+*** [[https://www.tandfonline.com/feed/rss/krnb20][RNA Biology]]                                                                                              :RNAbio: 
+*** [[https://www.tandfonline.com/feed/rss/utch20][Technometrics]]                                                                                            :Techno:
 ** Wiley                                                              :Wiley:
-*** [[https://onlinelibrary.wiley.com/feed/15213773/most-recent][Angewandte Chemie International Edition, IF 11]]
-*** [[https://onlinelibrary.wiley.com/feed/10970282/most-recent][Bioploymers, recent]]
-*** [[https://onlinelibrary.wiley.com/feed/10970282/most-cited][Bioploymers, cited]]
-*** [[https://chemistry-europe.onlinelibrary.wiley.com/feed/26289725/most-recent][[Chemistry Methods]]
-*** [[https://chemistry-europe.onlinelibrary.wiley.com/feed/14397633/most-recent][ChemBioChem]]
-*** [[https://onlinelibrary.wiley.com/action/showFeed?jc=1097461x&type=etoc&feed=rss][International Journal of Quantum Chemistry]]
-*** [[https://onlinelibrary.wiley.com/action/showFeed?jc=1096987x&type=etoc&feed=rss][Journal of Computational Chemistry]]
-
-*** [[https://onlinelibrary.wiley.com/feed/1469896x/most-recent][Protein Science, recent]]
-*** [[https://onlinelibrary.wiley.com/feed/1469896x/most-cited][Protein Science, cited ]]
-*** [[https://onlinelibrary.wiley.com/feed/10970134/most-recent][Proteins: Structure, Function, and Bioinformatics: recent]]
-*** [[https://onlinelibrary.wiley.com/feed/10970134/most-cited][Proteins: Structure, Function, and Bioinformatics: cited]]
+*** [[https://onlinelibrary.wiley.com/feed/15213773/most-recent][Angewandte Chemie International Edition, IF 11]]                                             :AnChInEd:
+*** [[https://onlinelibrary.wiley.com/feed/10970282/most-recent][Bioploymers, recent]]                                                                        :Biopolymers:
+*** [[https://onlinelibrary.wiley.com/feed/10970282/most-cited][Bioploymers, cited]]                                                                          :Biopolymers:
+*** [[https://onlinelibrary.wiley.com/feed/17470285/most-recent][Chemical Biology & Drug Design]]                                                             :ChBioDrugDes:
+*** [[https://chemistry-europe.onlinelibrary.wiley.com/feed/26289725/most-recent][[Chemistry Methods]]                                                        :ChemBioDrugDes:
+*** [[https://chemistry-europe.onlinelibrary.wiley.com/feed/14397633/most-recent][ChemBioChem]]                                                               :ChemBioChem:
+*** [[https://chemistry-europe.onlinelibrary.wiley.com/feed/18607187/most-recent][ChemMedChem]]                                                               :hemMedChem:
+*** [[https://onlinelibrary.wiley.com/action/showFeed?jc=1097461x&type=etoc&feed=rss][International Journal of Quantum Chemistry]]                            :IntJQuChem:
+*** [[https://onlinelibrary.wiley.com/action/showFeed?jc=1096987x&type=etoc&feed=rss][Journal of Computational Chemistry]]                                    :JCompChem:
+*** [[https://onlinelibrary.wiley.com/feed/1469896x/most-recent][Protein Science, recent]]                                                                    :ProScience:
+*** [[https://onlinelibrary.wiley.com/feed/1469896x/most-cited][Protein Science, cited ]]                                                                     :ProScience:
+*** [[https://onlinelibrary.wiley.com/feed/10970134/most-recent][Proteins: Structure, Function, and Bioinformatics: recent]]                                  :PSFB:
+*** [[https://onlinelibrary.wiley.com/feed/10970134/most-cited][Proteins: Structure, Function, and Bioinformatics: cited]]                                    :PSFB:
 ** WIRES                                                               :WIRES:
-*** [[https://wires.onlinelibrary.wiley.com/action/showFeed?jc=17590884&type=etoc&feed=rss][WIREs Computational Molecular Science]]
-*** [[https://wires.onlinelibrary.wiley.com/action/showFeed?jc=19390068&type=etoc&feed=rss][WIREs Computational Statistics]]
-*** [[https://wires.onlinelibrary.wiley.com/action/showFeed?jc=19424795&type=etoc&feed=rss][WIREs Data Mining and Knowledge Discovery]]
-*** [[https://wires.onlinelibrary.wiley.com/action/showFeed?jc=19390041&type=etoc&feed=rss][WIREs Nanomedicine and Nanobiotechnology ]]
-*** [[https://wires.onlinelibrary.wiley.com/action/showFeed?jc=17577012&type=etoc&feed=rss][WIREs RNA]]
-** YouTube                                                               :yt:
+*** [[https://wires.onlinelibrary.wiley.com/action/showFeed?jc=17590884&type=etoc&feed=rss][WIREs Computational Molecular Science]]                           :WIREsComMolSci:
+*** [[https://wires.onlinelibrary.wiley.com/action/showFeed?jc=19390068&type=etoc&feed=rss][WIREs Computational Statistics]]                                  :WIREsComStats:
+*** [[https://wires.onlinelibrary.wiley.com/action/showFeed?jc=19424795&type=etoc&feed=rss][WIREs Data Mining and Knowledge Discovery]]                       :WIREsDataMing:
+*** [[https://wires.onlinelibrary.wiley.com/action/showFeed?jc=19390041&type=etoc&feed=rss][WIREs Nanomedicine and Nanobiotechnology ]]                       :WIREsNanoMed:
+*** [[https://wires.onlinelibrary.wiley.com/action/showFeed?jc=17577012&type=etoc&feed=rss][WIREs RNA]]                                                       :WIREsRNA:
