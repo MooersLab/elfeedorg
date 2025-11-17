@@ -257,6 +257,7 @@
 *** [[https://chemistry-europe.onlinelibrary.wiley.com/feed/26289725/most-recent][[Chemistry Methods]]                                                        :ChemBioDrugDes:
 *** [[https://chemistry-europe.onlinelibrary.wiley.com/feed/14397633/most-recent][ChemBioChem]]                                                               :ChemBioChem:
 *** [[https://chemistry-europe.onlinelibrary.wiley.com/feed/18607187/most-recent][ChemMedChem]]                                                               :hemMedChem:
+*** [[https://febs.onlinelibrary.wiley.com/feed/18733468/most-recent][FEBS Letters]]                                                                          :FEBSletters:
 *** [[https://onlinelibrary.wiley.com/action/showFeed?jc=1097461x&type=etoc&feed=rss][International Journal of Quantum Chemistry]]                            :IntJQuChem:
 *** [[https://onlinelibrary.wiley.com/action/showFeed?jc=1096987x&type=etoc&feed=rss][Journal of Computational Chemistry]]                                    :JCompChem:
 *** [[https://onlinelibrary.wiley.com/feed/1469896x/most-recent][Protein Science, recent]]                                                                    :ProScience:
