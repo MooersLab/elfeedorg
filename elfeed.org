@@ -91,6 +91,7 @@
 *** [[https://rss.sciencedirect.com/publication/science/00220248][Journal of Crystal Growth]]                                                                 :JCG:
 *** [[https://rss.sciencedirect.com/publication/science/00222836][Journal of Molecular Biology]]                                                              :JMB:
 *** [[https://rss.sciencedirect.com/publication/science/00222860][Journal of Molecular Structure]]                                                            :JMS:
+*** [[https://rss.sciencedirect.com/publication/science/01418130][International Journal of Biological Macromolecules]]                                        :IJBM:
 *** [[https://rss.sciencedirect.com/publication/science/10462023][Methods]]                                                                                   :METH:
 *** [[https://rss.sciencedirect.com/publication/science/01689002][Nucl. Instrum. Methods Phys. Res., Sect. A]]                                                :NIMPRSA:
 *** [[https://rss.sciencedirect.com/publication/science/10478477][Journal of Structural Biology]]                                                             :JSB:
@@ -232,6 +233,7 @@
 *** [[https://www.tandfonline.com/feed/rss/uasa20][Journal of the American Statistical Association]]                                                          :JASA:
 *** [[https://www.tandfonline.com/feed/rss/cjas20][Journal of Applied Statistics]]                                                                            :JAppStat:
 *** [[https://www.tandfonline.com/feed/rss/tjes20][Journal of Applied Statistics: Environmental Statistics and Data Science]]                                 :JAppStatsESDS:
+*** [[https://www.tandfonline.com/feed/rss/tbsd20][Journal of Biomolecular Structure and Dynamics]]                                                           :JBSD:
 *** [[https://www.tandfonline.com/feed/rss/lbps20][Journal of Biopharmaceutical Statistics]]                                                                  :JBiopharmStats:
 *** [[https://www.tandfonline.com/journals/ucgs20][Journal of Computational and Graphical Statistics]]                                                        :JCGS:
 *** [[https://www.tandfonline.com/feed/rss/gnst20][Journal of Nonparametric Statistics]]                                                                      :JSCS:
