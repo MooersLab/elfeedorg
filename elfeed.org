@@ -284,7 +284,7 @@
 *** [[https://onlinelibrary.wiley.com/feed/1469896x/most-cited][Protein Science, cited ]]                                                                     :ProScience:
 *** [[https://onlinelibrary.wiley.com/feed/10970134/most-recent][Proteins: Structure, Function, and Bioinformatics: recent]]                                  :PSFB:
 *** [[https://onlinelibrary.wiley.com/feed/10970134/most-cited][Proteins: Structure, Function, and Bioinformatics: cited]]                                    :PSFB:
-** WIRES                                                                                                                                :WIRES:
+** WIREs                                                                                                                                :WIREs:
 *** [[https://wires.onlinelibrary.wiley.com/action/showFeed?jc=17590884&type=etoc&feed=rss][WIREs Computational Molecular Science]]                           :WIREsComMolSci:
 *** [[https://wires.onlinelibrary.wiley.com/action/showFeed?jc=19390068&type=etoc&feed=rss][WIREs Computational Statistics]]                                  :WIREsComStats:
 *** [[https://wires.onlinelibrary.wiley.com/action/showFeed?jc=19424795&type=etoc&feed=rss][WIREs Data Mining and Knowledge Discovery]]                       :WIREsDataMing:
