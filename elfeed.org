@@ -102,6 +102,7 @@
 *** [[https://rss.sciencedirect.com/publication/science/09692126][Structure]]                                                                                 :struc:
 ** Emacs                                                                                                                                :emacs:
 *** [[https://emacs-apac.gitlab.io/announcements/index.xml][APAC]]                                                                                            :apac:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCwuyodzTl_KdEKNuJmeo99A][emacsconf]]                                                               :emacsconf:
 *** [[https://planet.emacslife.com/atom.xml][EmacsLife]]                                                                                                      :emacslife:
 *** [[http://planet.emacsen.org/atom.xml][Emacsen]]                                                                                                           :emacsen:
 *** [[https://www.reddit.com/r/orgmode/.rss][reddit/orgmode]]                                                                                                 :redorg:
@@ -119,7 +120,21 @@
 *** [[https://www.masteringemacs.org/feed][Mickey Petterson Mastering Emacs]]                                                                                 :micky:
 *** [[https://protesilaos.com/master.xml][Protesilaos]]                                                                                                       :prot:
 *** [[https://blog.tecosaur.com/tmio/rss.xml][tecosaur]]                                                                                                      :tecosaur:
+***[[https://christiantietze.de/feed.atom][Christian Tietze]]                                                                                                 :tietze:
 *** [[http://xahlee.info/emacs/emacs/blog.xml][Xah Lee emacs]]                                                                                                :xahlee:
+** Emacs YouTube Videos
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCBMMB7Yi0eyFuY95Qn2o0Yg][Jake Boxerman]]                                                           :ytBoxerman:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCgAygg3kD5x9jqqiWuZ3NVQ][Bhaskar Chowdhury]]                                                       :ytChowdhury:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC--_DvRzKXtQyVdOWVLUJCA][Emacs Elements]]                                                          :ytEmacsElements:
+*** [[https://emacsrocks.com/atom.xml][Emacs Rocks]]                                                                                                          :ytEmacsRocks:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCJetJ7nDNLlEzDLXv7KIo0w][Gavin Freeborn]]                                                          :ytFreeborn:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCCRdRbI93UGW0AZttVH3SbA][Goparism]]                                                                :ytGoparism:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCxkMDXQ5qzYOgXPRnOBrp1w][Mike Zamansky]]                                                           :ytZamansky:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCbh_g91w0T6OYp40xFrtnhA][Karthink]]                                                                :ytkarthink:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC718uEQF7bdg4QnnXo8uQJA][iLemming == Ag]]                                                          :ytlemming:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCtSWNtFKLb6jYU6doQVvF3g][PizzaTorque]]                                                             :ytPizzaTorque:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCAiiOTio8Yu69c3XnR7nQBQ][System Crafters]]                                                         :ytsystemcrafters:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCXEJNKH9I4xsoyUNN3IL96A][Xah Lee]]                                                                 :ytXahLee:
 ** EMBO                                                                                                                                 :EMBO:
 *** [[https://www.embopress.org/feed/14602075/most-recent][EMBO Journal]]                                                                                     :emboj:
 *** [[https://www.embopress.org/feed/14693178/most-recent][EMBO Reports]]                                                                                     :emborep:
