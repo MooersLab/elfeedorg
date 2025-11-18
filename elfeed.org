@@ -104,20 +104,22 @@
 *** [[https://emacs-apac.gitlab.io/announcements/index.xml][APAC]]                                                                                            :apac:
 *** [[https://planet.emacslife.com/atom.xml][EmacsLife]]                                                                                                      :emacslife:
 *** [[http://planet.emacsen.org/atom.xml][Emacsen]]                                                                                                           :emacsen:
-*** [[https://irreal.org/blog/?feed=rss2][Irreal blog post]]                                                                                                  :irreal:
-*** [[https://www.masteringemacs.org/feed][Mickey Petterson Mastering Emacs]]                                                                                 :micky:
-*** [[https://macadie.info/category/emacs/feed/][Eric MacAdie Emacs Meetup Reports]]                                                                          :macadie:
 *** [[https://www.reddit.com/r/orgmode/.rss][reddit/orgmode]]                                                                                                 :redorg:
 *** [[https://www.reddit.com/r/emacs/.rss][reddit/emacs]]                                                                                                     :redemacs:
-*** [[http://kitchingroup.cheme.cmu.edu/blog/feed/index.xml][kitchin group blog]]                                                                             :kitchin:
-*** [[https://magnus.therning.org//feed.xml][Magnus's Blog]]                                                                                                  :magnusblog:
-*** [[https://protesilaos.com/master.xml][Protesilaos blog]]                                                                                                  :prot:
-*** [[https://blog.tecosaur.com/tmio/rss.xml][tecosaur blog]]                                                                                                 :tecosaur:
-*** [[https://olddeuteronomy.github.io/index.xml][The Emacs Cat]]                                                                                             :emailCat:
-*** [[http://xahlee.info/emacs/emacs/blog.xml][Xah Lee emacs blog]]                                                                                           :xahlee:
 *** [[http://emacs.stackexchange.com/feeds][emacs/stackoverflow]]                                                                                             :soflow:
 *** [[https://sachachua.com/blog/category/emacs-news/feed/][emacs-news]]                                                                                      :enews:
 *** [[https://raw.githubusercontent.com/emacstv/emacstv.github.io/refs/heads/main/videos.org][Emacs TV]]                                                      :emacsTV:
+** Emacsen Blogs                                                                                                                        :emacsenblogs:
+*** [[https://jeffbowman.writeas.com/feed/][Bowman's arrow]]                                                                                                  :bowman:
+*** [[https://olddeuteronomy.github.io/index.xml][The Emacs Cat]]                                                                                             :emailCat:
+*** [[https://irreal.org/blog/?feed=rss2][Irreal blog post]]                                                                                                  :irreal:
+*** [[http://kitchingroup.cheme.cmu.edu/blog/feed/index.xml][Kitchin group]]                                                                                  :kitchin:
+*** [[https://macadie.info/category/emacs/feed/][Eric MacAdie Emacs Meetup Reports]]                                                                          :macadie:
+*** [[https://magnus.therning.org//feed.xml][Magnus's Blog]]                                                                                                  :magnusblog:
+*** [[https://www.masteringemacs.org/feed][Mickey Petterson Mastering Emacs]]                                                                                 :micky:
+*** [[https://protesilaos.com/master.xml][Protesilaos]]                                                                                                       :prot:
+*** [[https://blog.tecosaur.com/tmio/rss.xml][tecosaur]]                                                                                                      :tecosaur:
+*** [[http://xahlee.info/emacs/emacs/blog.xml][Xah Lee emacs]]                                                                                                :xahlee:
 ** EMBO                                                                                                                                 :EMBO:
 *** [[https://www.embopress.org/feed/14602075/most-recent][EMBO Journal]]                                                                                     :emboj:
 *** [[https://www.embopress.org/feed/14693178/most-recent][EMBO Reports]]                                                                                     :emborep:
@@ -138,15 +140,15 @@
 *** [[https://ieeexplore.ieee.org/rss/TOC5992.XML][Computing in Science & Engineering]]                                                                       :CiSE:
 *** [[https://ieeexplore.ieee.org/rss/TOC2945.XML][IEEE Transactions on Visualization and Computer Graphics]]                                                 :VisCG:
 ** IUCr                                                                                                                                 :iucr:
-*** [[https://journals.iucr.org/j/rss10.xml][JAppliedCrystallography]]                                                                                        :JAC:
-*** [[https://journals.iucr.org/s/rss10.xml][SynchRad]]                                                                                                       :SynchRad:
-*** [[https://journals.iucr.org/m/rss10.xml][IUCrData]]                                                                                                       :IUCrData:
-*** [[https://journals.iucr.org/m/rss10.xml][IUCrJ]]                                                                                                          :IUCrJ:
 *** [[https://journals.iucr.org/a/rss10.xml][Acta Cryst Section A]]                                                                                           :sectA:
 *** [[https://journals.iucr.org/b/rss10.xml][Acta Cryst Section B]]                                                                                           :sectB:
 *** [[https://journals.iucr.org/c/rss10.xml][Acta Cryst Section C]]                                                                                           :sectC:
 *** [[https://journals.iucr.org/d/rss10.xml][Acta Cryst Section D]]                                                                                           :sectD:
 *** [[https://journals.iucr.org/f/rss10.xml][Acta Cryst Section F]]                                                                                           :sectF:
+*** [[https://journals.iucr.org/m/rss10.xml][IUCrData]]                                                                                                       :IUCrData:
+*** [[https://journals.iucr.org/m/rss10.xml][IUCrJ]]                                                                                                          :IUCrJ:
+*** [[https://journals.iucr.org/j/rss10.xml][JAppliedCrystallography]]                                                                                        :JAC:
+*** [[https://journals.iucr.org/s/rss10.xml][SynchRad]]                                                                                                       :SynchRad:
 ** Journal of Artificial Intelligence Reseach                                                                                           :JAIR:
 *** [[https://jair.org/index.php/jair/issue/current/feed][JAIR]]                                                                                              :jair:
 ** Journal of Open Source Software                                                                                                      :JOSS:
