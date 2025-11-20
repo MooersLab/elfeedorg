@@ -12,15 +12,13 @@ This form of literature searching compliments keyword or topic-driven searches.
 You might not have considered certain terms to be relevant when they would be required to be able to retrieve literature that is relevant to your interests.
 
 This repository contains my source file, elfeed.org, that has all the URLs to the RSS feeds of the journals that I follow.
-Obviously, this file is written in the orb mode type setting language.
+Obviously, this file is written in the org-mode typesetting language.
 Org-mode is very convenient for the creation and management of hierarchical lists.
-Some trees within the list can be shuffled up or down.
+Subtrees within the list can be shuffled up or down.
 Org-mode also supports the folding of topics.
-Org-mode was initiated before markdown and is far more powerful.
-For example, org-mode supports parallel polyglot literate programming, which is not even possible in Jupyter notebooks.
 
 The main kind of feed that I follow are the current contents of journals.
-Some other kinds of websites like blogs will also have RSS feeds.
+Some other kinds of websites with RSS feeds inlcude blogs, YouTube channels, forums, databases, and GitHub features like releases.
 
 This collection of RSS feeds is driven by my research needs and interests. 
 My interests include the following:
@@ -47,8 +45,12 @@ My interests include the following:
 - Emacs
 - Clojure
 
-If you have overlapping interests, you may want to borrow the relevant entries because the gathering of the URLs for these feeds was time consuming.
-The feeds are organized by publisher because each publisher has their own style of formatting the URL.
+If you have overlapping interests, you may want to copy the relevant entries because the gathering of the URLs for these feeds was time consuming.
+Usually a RSS icon is clicked to toke you to another tab with the RSS code.
+If the RSS icon is absent, visuallize the source code of the HTML file and search for `RSS`. 
+It will be next or part of a the URL for the RSS feed.
+
+In the elfeed.org file, the feeds are organized by publisher because each publisher has their own style of formatting the URL.
 This approach to organizing the feeds supports more rapid deduction of the appropriate URL address.
 
 To interface the elfeed.org file with elfeed, you need to install the package elfeed-org.
@@ -56,10 +58,26 @@ This is the configuration that I use in my init.el file:
 
 ```elisp
 ;; List the feeds in an org file here:
-(use-package elfeed-org)
-(setq rmh-elfeed-org-files (list "~/e30fewpackages/elfeed.org"))
-(elfeed-org)
+(use-package elfeed-org
+  :after elfeed
+  :custom
+  (rmh-elfeed-org-files
+   (list "~/e30fewpackages/elfeed.org"))
+)
 ```
+
+I am using the configuration for elfeed that I found [here:](https://plrj.org/2025/06/14/my-emacs-elfeed-configuration/).
+
+Run the following commnds in the minibuffer to transfer the feeds from elfeed-org to elfeed, update the feeds, and then display the feeds.:
+
+1. M-x elfeed-org
+2. M-x elfeed update
+3. M-x elfeed
+
+To do a search, enter `s`.
+In the minbuffer, add `+ python`
+This is a screen shot of the results:
+The tags are in the parentheses on the right.
 
 
 
