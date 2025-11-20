@@ -78,7 +78,7 @@ Run the following commnds in the minibuffer to transfer the feeds from elfeed-or
 To do a search, enter `s`.
 In the minbuffer, add `+ python`
 
-![This is a screen shot of the results:](https://github.com/MooersLab/elfeed-org/blob/main/images/pythonFeeds.png)
+![This is a screen shot of the results:](https://github.com/MooersLab/elfeedorg/blob/main/images/pythonFeeds.png)
 
 The tags are in the parentheses on the right.
 
