@@ -1,7 +1,6 @@
-![Version](https://img.shields.io/static/v1?label=elfeedorg&message=0.1&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=elfeedorg&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-
+                                                                                       v
 # Blaine's elfeed.org file of RSS feeds of interest
 
 Elfeed is a package for the highly customizable text editor Emacs.
@@ -87,9 +86,11 @@ The tags are in the parentheses on the right.
 ## Update history
 
 |Version      | Changes                                                                                                                                                                         | Date                 |
-|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
-| Version 0.1 |   Added badges, funding, and update table.  Initial commit.                                                                                        | 11/13/2025  |
-| Version 0.2 |  Changed the heirarchy in elfeedorg                                                                                                               ---------- | 11/14/2025  |
+|:-----------|:----------------------------------------------------------------------------------------|:--------------------|
+| Version 0.1 |   Added badges, funding, and update table.  Initial commit.                                     | 11/13/2025  |
+| Version 0.2 |  Changed the heirarchy in elfeed.org.                                                           | 11/14/2025  |
+| Vserion 0.3 |  Added configuration and image.                                                        |    11/20/2025  |
+
 
 ## Sources of funding
 
