@@ -70,13 +70,16 @@ I am using the configuration for elfeed that I found [here:](https://plrj.org/20
 
 Run the following commnds in the minibuffer to transfer the feeds from elfeed-org to elfeed, update the feeds, and then display the feeds.:
 
+
 1. M-x elfeed-org
 2. M-x elfeed update
 3. M-x elfeed
 
 To do a search, enter `s`.
 In the minbuffer, add `+ python`
-This is a screen shot of the results:
+
+![This is a screen shot of the results:](https://github.com/MooersLab/elfeed-org/blob/main/images/pythonFeeds.png)
+
 The tags are in the parentheses on the right.
 
 
