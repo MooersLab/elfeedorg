@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=elfeedorg&message=0.2&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=elfeedorg&message=0.3&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
                                                                                        v
 # Blaine's elfeed.org file of RSS feeds of interest
